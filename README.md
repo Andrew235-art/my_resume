@@ -17,9 +17,9 @@ HTML | CSS | Javascript | Canva
 ChatGPT | Gemini Ai prompting
 
 ## Experience <br>
-**Personal Projects**
-[Project 1]()
-[Project 2]()
+**Personal Projects** <br>
+[Project 1]() <br>
+[Project 2]() <br>
 [Project 3]()
  
 ## Education
