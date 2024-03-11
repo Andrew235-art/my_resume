@@ -1,5 +1,5 @@
 ## Contact Information
-**Email-address**: bandrew235@gmail.com <br>
+**Email-address**: **bandrew235@gmail.com** <br>
 **Linkedin**: [Linkedin](https://www.linkedin.com/in/bisaso-andrew-800392217) <br>
 
 ## Summary
