@@ -8,10 +8,10 @@ Highly motivated individual looking forward to gain more experience in data anal
 Proven ability to learn new skills quickly and a strong desire to continuously improve.
 
 ### Skills
-1. **Data Analysis**<br>
+>**Data Analysis**<br>
 Microsoft Excel / Google Sheets | SQL | Tableau | Python
 
-2. **Website Design**<br>
+>**Website Design**<br>
 HTML | CSS | Javascript
 
 ### Personal Projects
