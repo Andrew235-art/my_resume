@@ -1,6 +1,6 @@
 ### Contact Information
-> **Email-address**: bandrew235@gmail.com
-> [**Linkedin**](https://www.linkedin.com/in/bisaso-andrew-800392217)
+> **Email-address**: bandrew235@gmail.com<br>
+> [**Linkedin**](https://www.linkedin.com/in/bisaso-andrew-800392217)<br>
 > **Phone number**: +256 781 903525
 
 ### Summary
@@ -8,10 +8,10 @@ Highly motivated individual looking forward to gain more experience in data anal
 Proven ability to learn new skills quickly and a strong desire to continuously improve.
 
 ### Skills
-1. **Data Analysis**
+1. **Data Analysis**<br>
 Microsoft Excel / Google Sheets | SQL | Tableau | Python
 
-2. **Website Design**
+2. **Website Design**<br>
 HTML | CSS | Javascript
 
 ### Personal Projects
