@@ -11,12 +11,16 @@ Proven ability to learn new skills quickly and a strong desire to continuously i
 Microsoft Excel / Google Sheets | SQL | Tableau | Python
 
 **Website Design** <br>
-HTML | CSS | Javascript
+HTML | CSS | Javascript | Canva
 
-## Personal Projects
-.
-.
-.
+**Generative Ai**
+ChatGPT | Gemini Ai prompting
+
+## Experience <br>
+**Personal Projects**
+[Project 1]()
+[Project 2]()
+[Project 3]()
  
 ## Education
 **Institution** <br>
