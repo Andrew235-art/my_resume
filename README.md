@@ -19,8 +19,8 @@ HTML | CSS | Javascript
 .
  
 ## Education
-**Institution**
+**Institution** <br>
 Uganda Institute of Information and Communications Technology(UICT) 
 
-**Award**
+**Award** <br>
 Computer Science, Diploma.
