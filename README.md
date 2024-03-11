@@ -1,6 +1,6 @@
 ### Contact Information
 > **Email-address**: bandrew235@gmail.com<br>
-> [**Linkedin**](https://www.linkedin.com/in/bisaso-andrew-800392217)<br>
+> **Linkedin**: [Linkedin](https://www.linkedin.com/in/bisaso-andrew-800392217)<br>
 > **Phone number**: +256 781 903525
 
 ### Summary
