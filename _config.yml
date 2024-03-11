@@ -1,5 +1,5 @@
 title: Andrew Bisaso
 logo: ./Assets/image_01.png
 description: Data Analysis | Unveiling insights through data
-# show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
