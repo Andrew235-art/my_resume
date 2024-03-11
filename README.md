@@ -1,2 +1,19 @@
-# resume
-My resume with some personal projects
+### Summary
+....
+
+### Skills
+...
+
+### Personal Projects
+ .
+ .
+ .
+ 
+### Experience
+ 1
+ 2
+ 3
+ 
+### Education
+
+
