@@ -19,7 +19,8 @@ ChatGPT | Gemini Ai prompting
 ## Experience <br>
 **Personal Projects** <br>
 [Project 1: Python Data Analysis](https://github.com/Andrew235-art/Python_data_analysis) <br>
-[Project 2: SQL data analysis](https://github.com/Andrew235-art/sql_data_analysis) <br>
+[Project 2: Python EDA/ Google Colab](https://colab.research.google.com/drive/12KjZQx_8DH0qMRBdhrm_sOc6woKl3Ftz?usp=sharing)<br>
+[Project 3: SQL data analysis](https://github.com/Andrew235-art/sql_data_analysis) <br>
 On going...
  
 ## Education
