@@ -18,9 +18,8 @@ ChatGPT | Gemini Ai prompting
 
 ## Experience <br>
 **Personal Projects** <br>
-[Project 1]() <br>
+[Project 1: Python Data Analysis](https://github.com/Andrew235-art/Python_data_analysis) <br>
 [Project 2]() <br>
-[Project 3]()
  
 ## Education
 **Institution** <br>
