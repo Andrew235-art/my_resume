@@ -23,7 +23,7 @@ ChatGPT | Gemini Ai prompting
  * Completed a Deloitte job simulation involving data analysis and forensic
    technology 
  * Created a data dashboard using Tableau 
- * Used Google Sheets to classify data and draw business conclusions
+ * Used Excel to classify data and draw business conclusions
 
 **Personal Projects** <br>
 [Project 1: Python Data Analysis](https://github.com/Andrew235-art/Python_data_analysis) <br>
