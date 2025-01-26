@@ -17,6 +17,14 @@ HTML | CSS | Javascript | Canva
 ChatGPT | Gemini Ai prompting
 
 ## Experience <br>
+
+**Deloitte Australia Data Analytics Job Simulation on Forage - January 2025**
+
+ * Completed a Deloitte job simulation involving data analysis and forensic
+   technology 
+ * Created a data dashboard using Tableau 
+ * Used Google Sheets to classify data and draw business conclusions
+
 **Personal Projects** <br>
 [Project 1: Python Data Analysis](https://github.com/Andrew235-art/Python_data_analysis) <br>
 [Project 2: Python EDA/ Google Colab](https://colab.research.google.com/drive/12KjZQx_8DH0qMRBdhrm_sOc6woKl3Ftz?usp=sharing)<br>
